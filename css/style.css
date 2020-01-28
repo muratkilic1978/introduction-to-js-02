@@ -1,0 +1,32 @@
+/*
+Murat Kilic
+2020-23-01
+*/
+
+* {
+    font-family: 'Roboto', sans-serif;
+    background-color: #cfb495;
+}
+
+.top-article, .middle-article, .bottom-article {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+}
+
+h1 {
+    font-size: 4.5rem;
+    color: #ffcc00;
+}
+
+h2 {
+    font-size: 3.5rem;
+    color: #5e56c5;
+}
+
+
+p {
+    font-size: 2.6rem;
+    color: #0e4954;
+}
